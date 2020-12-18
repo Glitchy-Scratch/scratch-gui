@@ -14,10 +14,5 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
       - name: Setup, Build and Install Dependencies using Node.JS
-        uses: actions/setup-node@v1
-        run: npm install 
-        run: npm run build
-        run: npm run deploy
-        with:
-          node-version: 12.x
+        run: npm install && npm run build && npm run deploy
 
