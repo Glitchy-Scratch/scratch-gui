@@ -3,9 +3,7 @@ on:
     branches:
       - master
 
-
 name: Site Deployment
-
 jobs:
   deploy:
     name: Deployment
