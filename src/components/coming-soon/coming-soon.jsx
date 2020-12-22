@@ -12,17 +12,17 @@ import coolCatIcon from './cool-cat.png';
 
 const messages = defineMessages({
     message1: {
-        defaultMessage: 'Don\'t worry, we\'re on it {emoji}',
+        defaultMessage: 'Glitchy Scratch crashed. Don\'t worry, we\'re on it {emoji}',
         description: 'One of the "coming soon" random messages for yet-to-be-done features',
         id: 'gui.comingSoon.message1'
     },
     message2: {
-        defaultMessage: 'Coming Soon...',
+        defaultMessage: 'BhshuweHGEUhhISH...',
         description: 'One of the "coming soon" random messages for yet-to-be-done features',
         id: 'gui.comingSoon.message2'
     },
     message3: {
-        defaultMessage: 'We\'re working on it {emoji}',
+        defaultMessage: 'Uh, oh! Something went wrong! {emoji}',
         description: 'One of the "coming soon" random messages for yet-to-be-done features',
         id: 'gui.comingSoon.message3'
     }
