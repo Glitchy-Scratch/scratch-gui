@@ -1,7 +1,7 @@
 on: 
   push:
     branches:
-      - master
+      - develop
 
 name: Site Deployment
 jobs:
