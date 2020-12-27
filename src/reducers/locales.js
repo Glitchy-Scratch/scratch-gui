@@ -1,8 +1,8 @@
 import {addLocaleData} from 'react-intl';
 
-import {localeData} from 'scratch-l10n';
-import editorMessages from 'scratch-l10n/locales/editor-msgs';
-import {isRtl} from 'scratch-l10n';
+import {localeData} from 'glitchyscratch-i18n';
+import editorMessages from 'glitchyscratch-i18n/locales/editor-msgs';
+import {isRtl} from 'glitchyscratch-i18n';
 
 addLocaleData(localeData);
 
